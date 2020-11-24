@@ -4,9 +4,9 @@
   <span>Because the devil has secrets.</span>
   <br>
 </p>
-## Introduction
 
-LUcipher is a secure encryption algorithm that uses a key / password to encrypt data
+## Introduction
+LUcipher is a secure encryption algorithm that also uses other secure cryptography techniques to encrypt a message using a key / password
 ## Usage
 
 ```console
