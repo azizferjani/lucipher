@@ -1,7 +1,7 @@
 <p align=center>
   <img src="https://user-images.githubusercontent.com/45538475/100033033-97b10700-2df9-11eb-8e46-3dfa08aa0ade.jpg"/>
   <br>
-  <span>Because the devil has secrets.</span>
+  <span>because the devil has secrets.</span>
   <br>
 </p>
 
@@ -17,7 +17,7 @@ optional arguments:
   -t TEXT, --text TEXT  Enter the text you want to encrypt
   -k KEY, --key KEY     Enter your encryption key
 
-LUcipher: Encrypt your secrets with a key (Version 0.0.1)
+LUcipher: because the devil has secrets. (Version 0.0.1)
 
 positional arguments:
   USERNAMES             One or more usernames to check with social networks.
@@ -33,7 +33,7 @@ optional arguments:
 
 Example:
 ```
-python sherlock.py -m e -t "Hello World" -k passkey12
+python lucipher.py -m e -t "Hello World" -k passkey12
 ```
 
 Created by AF.
